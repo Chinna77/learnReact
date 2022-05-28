@@ -1,0 +1,16 @@
+$colorVar: green;
+$backColorVar: rgba(41, 6, 166, 0.067);
+$myColorVar: pink;
+
+h1{
+    color: $colorVar;
+    background-color: $backColorVar;
+}
+h2{
+    color: $colorVar;
+    background-color: $backColorVar;
+}
+h3{
+    color: red;
+    background-color: $backColorVar;
+}
